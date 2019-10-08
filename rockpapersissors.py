@@ -1,6 +1,6 @@
 # Title:   RockPaperScissors.py
 # Purpose: Game of Rock Paper Scissors
-# Author:  Jamie Harris
+# Author:  DrSquidNugget
 # Date:    01/02/2019
 #
 import random
