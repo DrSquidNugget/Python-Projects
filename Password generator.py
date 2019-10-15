@@ -1,10 +1,11 @@
 import random
+import string
 print("Welcome to the Password Generator!")
 
 def passwordgenerator():
     mypw = ""
     count = 0
-    alphabet_number =    "abcdefghijklmnopqrstuvwxyz0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    alphabet_number = string.ascii_letters + string.digits
     symbols = "!#$"
     running1 = True
     while running1:
